@@ -1,1 +1,1 @@
-# Stone-Paper-Scissor-Game-Projects Using C++
+# Stone-Paper-Scissor-Game-Project Using C++
